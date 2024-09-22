@@ -7,13 +7,13 @@
     </a>
     A organização do novo mundo
 </h3>
-    
-<div> 
+
+<p align="center">
   <a href = "https://www.canva.com/design/DAGQAQF6HsU/0Xd3Qhb76HGry5KSYC3Yjg/edit?utm_content=DAGQAQF6HsU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" target="_blank"></a>
   <a href = "mailto:forecasthub.projeto.poo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://trello.com/b/T4DYETtp"><img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" target="_blank"></a>
   <a href = "https://github.com/ForecastHubPOO"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div>
+</p>
 
 
 Nossa empresa tem como colaboradores:
