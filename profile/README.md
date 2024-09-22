@@ -47,5 +47,5 @@ O nome "ForecastHUB" foi escolhido para refletir nossa missão central. "Forecas
 
 <h3 align="center">
     <img src="https://github.com/ForecastHubPOO/.github/blob/31e6b85f47582e1a23819aa8ceedceaaffaeefdd/profile/imgs/qrcode.png" height="255" alt="QRCodeFH"><br>
-    Siga a nossa organização!
+    Siga e compartilhe a nossa organização!
 </h3>
