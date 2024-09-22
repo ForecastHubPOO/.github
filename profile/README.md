@@ -1,10 +1,7 @@
 <h1 align="center"> ForecastHUB </h1>
 
 <h3 align="center">
-  </a>
-    <a href="https://surrealdb.com#gh-light-mode-only" target="_blank">
-        <img src="./img/black/text.svg" height="15" alt="ForecastHUB">
-    </a>
+    <img src="https://github.com/ForecastHubPOO/.github/blob/0bc6f888512a2f87731e03b8a6127f126d4d2545/profile/imgs/iconApp.png" height="150" alt="ForecastHUB"><br>
     A organização do novo mundo
 </h3>
 
