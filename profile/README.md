@@ -30,12 +30,12 @@ Adotando a estética Frutiger Aero, a ForecastHUB se inspira na simplicidade e c
 
 <h2><img height="40" src="https://github.com/ForecastHubPOO/.github/blob/075b5520af52821874e10f9e92bae79431461ad9/profile/imgs/nuvens.png">&nbsp;&nbsp;Missão e valores</h2>
 
-A missão da ForecastHUB é explícita: "Conhecimento é a chave para a sobrevivência". Os valores centrais da empresa incluem a transparência, a colaboração e a resiliência. A equipe acredita que, ao compartilhar informações, podem salvar vidas e reconstruir uma nova sociedade para acompanhar o novo mundo. 
+<h4 align="center">"Ser a fonte mais confiável de conhecimento climático, capacitando as comunidades a enfrentar e se adaptar às mudanças do planeta após o GCC."</h4>
+
+A missão da ForecastHUB é explícita acima. Os valores centrais da empresa incluem a transparência, a colaboração e a resiliência. A equipe acredita que, ao compartilhar informações, podem salvar vidas e reconstruir uma nova sociedade para acompanhar o novo mundo. 
 A ForecastHUB também se dedica a educar a população sobre como lidar com as novas realidades climáticas, fornecendo workshops e guias sobre segurança em condições extremas em palestras no centro de Fortaleza, o lugar com mais pessoas carentes pós colapso.
 
 <h2><img height="45" src="https://github.com/ForecastHubPOO/.github/blob/644b9dc7c1375921ded9643dce9619b9b4f5b58d/profile/imgs/raio.png">&nbsp;&nbsp;Visão</h2>
-
-<h4 align="center">"Ser a fonte mais confiável de conhecimento climático, capacitando as comunidades a enfrentar e se adaptar às mudanças do planeta após o GCC."</h4>
 
 Alguns veem a previsão como uma ferramenta de manipulação e poder, mas em nossa organização acreditamos que a informação é a chave para a sobrevivência, união e prosperidade da nova sociedade. Nossa visão é criar um futuro onde cada indivíduo e comunidade tenha acesso a previsões climáticas precisas, permitindo que se preparem e se protejam das adversidades do ambiente do novo mundo. Buscamos promover a resiliência, a educação e a colaboração, transformando o medo em conhecimento e a incerteza em ação.
 
