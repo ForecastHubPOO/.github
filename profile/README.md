@@ -5,7 +5,7 @@
     <a href="https://surrealdb.com#gh-light-mode-only" target="_blank">
         <img src="./img/black/text.svg" height="15" alt="SurrealDB">
     </a>
-    é a organização do novo mundo, <br> é aquela que vai te ajudar muito
+    A organização do novo mundo
 </h3>
     
 
@@ -18,3 +18,4 @@ Nossa empresa tem como colaboradores:
 - Pedro Henrique A. Barbosa - Programador front-end e feitor do diagrama UML
 
 <h2><img height="20" src="./img/whatissurreal.svg">&nbsp;&nbsp;O que é o ForecastHub?</h2>
+
