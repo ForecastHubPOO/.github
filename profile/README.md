@@ -8,6 +8,7 @@
     A organização do novo mundo
 </h3>
     
+**[Nosso Trello](https://trello.com/b/T4DYETtp)**
 
 
 Nossa empresa tem como colaboradores:
