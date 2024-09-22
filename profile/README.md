@@ -44,3 +44,8 @@ Ao nos tornarmos um farol de esperança e inovação, pretendemos contribuir par
 <h2><img height="40" src="https://github.com/ForecastHubPOO/.github/blob/57dd193a4e5eaa236ffea1fbff0bb0ddb6c364ae/profile/imgs/floco.png">&nbsp;&nbsp;Por que ForecastHUB?</h2>
 
 O nome "ForecastHUB" foi escolhido para refletir nossa missão central. "Forecast" significa previsão, algo objetivo para ressaltar nosso compromisso em fornecer informações precisas sobre as mudanças climáticas que afetam a nossa nova sociedade. Já "HUB" indica um centro de conexão e colaboração, onde as pessoas reúnem-se para compartilhar conhecimento, trocar informações e apoiar-se mutuamente. Juntas, essas palavras simbolizam nossa visão de ser um ponto de referência confiável e colaborativo para todos aqueles que buscam se preparar e se adaptar ao novo mundo por meio de informações sobre o clima.
+
+<h3 align="center">
+    <img src="https://github.com/ForecastHubPOO/.github/blob/31e6b85f47582e1a23819aa8ceedceaaffaeefdd/profile/imgs/qrcode.png" height="255" alt="QRCodeFH"><br>
+    Siga a nossa organização!
+</h3>
