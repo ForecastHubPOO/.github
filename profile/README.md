@@ -3,7 +3,7 @@
 <h3 align="center">
   </a>
     <a href="https://surrealdb.com#gh-light-mode-only" target="_blank">
-        <img src="./img/black/text.svg" height="15" alt="SurrealDB">
+        <img src="./img/black/text.svg" height="15" alt="ForecastHUB">
     </a>
     A organização do novo mundo
 </h3>
