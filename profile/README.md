@@ -23,7 +23,7 @@ Nossa empresa tem como colaboradores:
 - Gustavo F. Coêlho - Designer da logo da empresa e escritor do README.md do projeto
 - Pedro Henrique A. Barbosa - Programador front-end e feitor do diagrama UML
 
-<h2><img height="25" src="https://github.com/ForecastHubPOO/.github/blob/d1172afa29f7ad10243ae7a7201b7155992565b5/profile/imgs/sol.png">&nbsp;&nbsp;O que é a ForecastHUB?</h2>
+<h2><img height="35" src="https://github.com/ForecastHubPOO/.github/blob/d1172afa29f7ad10243ae7a7201b7155992565b5/profile/imgs/sol.png">&nbsp;&nbsp;O que é a ForecastHUB?</h2>
 
 Após o "Grande Colapso Climático" (GCC), um apocalipse ambiental que dizimou mais da metade da população mundial, a Terra se tornou um lugar hostil. Catástrofes climáticas se tornaram a nova norma: tempestades de ácido, chuvas de partículas tóxicas e vendavais devastadores ameaçaram a sobrevivência dos remanescentes. Em meio ao caos, a informação se tornou um bem precioso, mas os canais de comunicação que conhecíamos desmoronaram. A internet, como a conhecíamos, entrou em colapso, levando à necessidade de reimaginar como as pessoas poderiam se comunicar e entender o mundo ao seu redor. 
 
@@ -31,12 +31,12 @@ Com a urgência de se adaptar a este novo mundo, um grupo de cientistas, meteoro
 
 Adotando a estética Frutiger Aero, a ForecastHUB se inspira na simplicidade e clareza dos designs dos anos 2000 a 2010, criando um ambiente familiar em um mundo desolado. Os escritórios da empresa, embora rústicos e improvisados, são projetados para serem funcionais e acessíveis, com uma paleta de cores que remete ao otimismo daquela época. Os funcionários vestem uniformes que misturam formalidade com nostalgia, relembrando os tempos de normalidade.
 
-<h2><img height="25" src="https://github.com/ForecastHubPOO/.github/blob/075b5520af52821874e10f9e92bae79431461ad9/profile/imgs/nuvens.png">&nbsp;&nbsp;Missão e valores</h2>
+<h2><img height="35" src="https://github.com/ForecastHubPOO/.github/blob/075b5520af52821874e10f9e92bae79431461ad9/profile/imgs/nuvens.png">&nbsp;&nbsp;Missão e valores</h2>
 
 A missão da ForecastHUB é explícita: "Conhecimento é a chave para a sobrevivência". Os valores centrais da empresa incluem a transparência, a colaboração e a resiliência. A equipe acredita que, ao compartilhar informações, podem salvar vidas e reconstruir uma nova sociedade para acompanhar o novo mundo. 
 A ForecastHUB também se dedica a educar a população sobre como lidar com as novas realidades climáticas, fornecendo workshops e guias sobre segurança em condições extremas em palestras no centro de Fortaleza, o lugar com mais pessoas carentes pós colapso.
 
-<h2><img height="25" src="https://github.com/ForecastHubPOO/.github/blob/075b5520af52821874e10f9e92bae79431461ad9/profile/imgs/noite.png">&nbsp;&nbsp;Visão</h2>
+<h2><img height="60" src="https://github.com/ForecastHubPOO/.github/blob/075b5520af52821874e10f9e92bae79431461ad9/profile/imgs/noite.png">&nbsp;&nbsp;Visão</h2>
 
 <h4 align="center">"Ser a fonte mais confiável de conhecimento climático, capacitando as comunidades a enfrentar e se adaptar às mudanças do planeta após o GCC."</h4>
 
