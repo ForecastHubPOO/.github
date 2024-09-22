@@ -40,3 +40,7 @@ A ForecastHUB também se dedica a educar a população sobre como lidar com as n
 Alguns veem a previsão como uma ferramenta de manipulação e poder, mas em nossa organização acreditamos que a informação é a chave para a sobrevivência, união e prosperidade da nova sociedade. Nossa visão é criar um futuro onde cada indivíduo e comunidade tenha acesso a previsões climáticas precisas, permitindo que se preparem e se protejam das adversidades do ambiente do novo mundo. Buscamos promover a resiliência, a educação e a colaboração, transformando o medo em conhecimento e a incerteza em ação.
 
 Ao nos tornarmos um farol de esperança e inovação, pretendemos contribuir para a reconstrução de uma sociedade mais forte e unida, mesmo diante das piores tempestades.
+
+<h2><img height="40" src="https://github.com/ForecastHubPOO/.github/blob/57dd193a4e5eaa236ffea1fbff0bb0ddb6c364ae/profile/imgs/floco.png">&nbsp;&nbsp;Por que ForecastHUB?</h2>
+
+O nome "ForecastHUB" foi escolhido para refletir nossa missão central. "Forecast" significa previsão, algo objetivo para ressaltar nosso compromisso em fornecer informações precisas sobre as mudanças climáticas que afetam a nossa nova sociedade. Já "HUB" indica um centro de conexão e colaboração, onde as pessoas reúnem-se para compartilhar conhecimento, trocar informações e apoiar-se mutuamente. Juntas, essas palavras simbolizam nossa visão de ser um ponto de referência confiável e colaborativo para todos aqueles que buscam se preparar e se adaptar ao novo mundo por meio de informações sobre o clima.
