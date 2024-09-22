@@ -1,7 +1,7 @@
 <h1 align="center"> ForecastHUB </h1>
 
 <h3 align="center">
-    <img src="https://github.com/ForecastHubPOO/.github/blob/0bc6f888512a2f87731e03b8a6127f126d4d2545/profile/imgs/iconApp.png" height="150" alt="ForecastHUB"><br>
+    <img src="https://github.com/ForecastHubPOO/.github/blob/802fa69a87b0fffc7ce5e60dd7c69ce96dee71d3/profile/imgs/iconepngagain" height="255" alt="ForecastHUB"><br>
     A organização do novo mundo
 </h3>
 
