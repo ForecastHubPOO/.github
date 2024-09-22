@@ -23,7 +23,7 @@ Nossa empresa tem como colaboradores:
 - Gustavo F. Coêlho - Designer da logo da empresa e escritor do README.md do projeto
 - Pedro Henrique A. Barbosa - Programador front-end e feitor do diagrama UML
 
-<h2><img height="20" src="./img/whatissurreal.svg">&nbsp;&nbsp;O que é a ForecastHUB?</h2>
+<h2><img height="25" src="https://github.com/ForecastHubPOO/.github/blob/d1172afa29f7ad10243ae7a7201b7155992565b5/profile/imgs/sol.png">&nbsp;&nbsp;O que é a ForecastHUB?</h2>
 
 Após o "Grande Colapso Climático" (GCC), um apocalipse ambiental que dizimou mais da metade da população mundial, a Terra se tornou um lugar hostil. Catástrofes climáticas se tornaram a nova norma: tempestades de ácido, chuvas de partículas tóxicas e vendavais devastadores ameaçaram a sobrevivência dos remanescentes. Em meio ao caos, a informação se tornou um bem precioso, mas os canais de comunicação que conhecíamos desmoronaram. A internet, como a conhecíamos, entrou em colapso, levando à necessidade de reimaginar como as pessoas poderiam se comunicar e entender o mundo ao seu redor. 
 
