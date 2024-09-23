@@ -14,11 +14,11 @@
 
 
 Nossa empresa tem como colaboradores:
-- Ana Lívia C. Carneiro - CEO da empresa, organizadora dos cards no Trello, feitora dos slides e escritora do README.md da empresa
-- Brenda Mônica Gonzaga de A. Nunes - Designer e programadora front-end
-- Fco. Levi Barros da Cunha - Programador back-end e feitor do diagrama UML
-- Gustavo F. Coêlho - Designer da logo da empresa e escritor do README.md do projeto
-- Pedro Henrique A. Barbosa - Programador front-end e feitor do diagrama UML
+- [Ana Lívia C. Carneiro](https://github.com/hellgby) - CEO da empresa, organizadora dos cards no Trello, feitora dos slides e escritora do README.md da empresa
+- [Brenda Mônica Gonzaga de A. Nunes](https://github.com/brwndag) - Designer e programadora front-end
+- [Fco. Levi Barros da Cunha](https://github.com/spyvanilla) - Programador back-end e feitor do diagrama UML
+- [Gustavo F. Coêlho](https://github.com/fontenelegustavo) - Designer da logo da empresa e escritor do README.md do projeto
+- [Pedro Henrique A. Barbosa](https://github.com/PedroBarbosaIF) - Programador front-end e feitor do diagrama UML
 
 <h2><img height="35" src="https://github.com/ForecastHubPOO/.github/blob/d1172afa29f7ad10243ae7a7201b7155992565b5/profile/imgs/sol.png">&nbsp;&nbsp;O que é a ForecastHUB?</h2>
 
